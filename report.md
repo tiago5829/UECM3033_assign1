@@ -1,8 +1,15 @@
 UECM3033 Assignment #1 Report
 ========================================================
 
-- Prepared by: ** Put your name here**
-- Tutorial Group: T2/T3
+- Prepared by: ** Yang guang tsong**
+- Tutorial Group: T2
+## Task 1 -- setup a github repository
+
+https://github.com/tiago5829/UECM3033_assign1
+
+## Task 2 -- setup python
+
+
 
 ## Task 3 -- modify and run Python script
 
@@ -12,10 +19,6 @@ In this section, please report:
 1306165=0x13ee35
 
 2. Write down the definite integrals that you have chosen.
-
-
-$$\int_0^{\6} \sin{e^{x^5}} dx = [{-sin(30)*{cos(30)/10}}+ 3].$$
-
 
 3. Write down your system of 10 linear equations.
 \begin{align*}
