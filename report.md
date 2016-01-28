@@ -3,12 +3,12 @@ UECM3033 Assignment #1 Report
 
 - Prepared by: ** Yang guang tsong**
 - Tutorial Group: T2
+
 ## Task 1 -- setup a github repository
 
 https://github.com/tiago5829/UECM3033_assign1
 
 ## Task 2 -- setup python
-
 
 
 ## Task 3 -- modify and run Python script
