@@ -9,7 +9,7 @@ UECM3033 Assignment #1 Report
 https://github.com/tiago5829/UECM3033_assign1
 
 ## Task 2 -- setup python
-
+<p><img alt="python.png" src="python.png"></p>
 
 ## Task 3 -- modify and run Python script
 
