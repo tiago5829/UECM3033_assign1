@@ -19,6 +19,8 @@ In this section, please report:
 1306165=0x13ee35
 
 2. Write down the definite integrals that you have chosen.
+$$\int_0^{\6} {sin{x*5}**2} dx = {{-sin(30)*{cos(30)/10}} + 3}.$$
+
 
 3. Write down your system of 10 linear equations.
 \begin{align*}
