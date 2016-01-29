@@ -16,13 +16,16 @@ https://github.com/tiago5829/UECM3033_assign1
 In this section, please report:
 
 1. The hexadecimal value of your student ID.
+
 1306165=0x13ee35
 
 2. Write down the definite integrals that you have chosen.
+
 $$\int_0^{\6} {sin{x*5}**2} dx = {{-sin(30)*{cos(30)/10}} + 3}.$$
 
 
 3. Write down your system of 10 linear equations.
+
 \begin{align*}
 0 x_0 + 1 x_1 + 2 x_2 + 3 x_3 + 4 x_4 + 5 x_5 + 6 x_6 + 7 x_7 + 8 x_8 + 9 x_9 &= 9, \\ 
 1 x_0 + 2 x_1 + 3 x_2 + 4 x_3 + 5 x_4 + 6 x_5 + 7 x_6 + 8 x_7 + 9 x_8 + 0 x_9 &= 8, \\
